@@ -1,0 +1,27 @@
+:root {
+  --color-text: black;
+}
+
+/* Renit style navigateur */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-text);
+}
+
+li {
+  list-style: none;
+}
+
+h1,
+h2,
+h3 {
+  margin-bottom: 20px;
+}
+
+/* classe utilisateur */
